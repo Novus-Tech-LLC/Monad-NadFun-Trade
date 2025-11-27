@@ -149,6 +149,6 @@ Script knobs (consumed in `scripts/deploy.js`):
 
 
 # 👨‍💻 Author
-### 📞 Telegram: [Tech Genie](https://t.me/opensea712)   
-https://t.me/opensea712
+### 📞 Telegram: [Novus Tech](https://t.me/novustch)   
+https://t.me/novustch
 
