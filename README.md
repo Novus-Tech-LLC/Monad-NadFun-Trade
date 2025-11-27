@@ -1,4 +1,4 @@
-# 💹 Monad Chain Trading Bot (Volume + Bundler)
+# 💹 Monad Nad.Fun Trading Bot (Volume + Bundler)
 **Professional Sniper, Bundler & Volume Automation for Monad-based DEXs**
 
 A high-performance trading bot infrastructure built for the **Monad blockchain**, offering automated token deployment, liquidity pool creation, and advanced trading strategies such as sniping, bundling, and volume generation.
